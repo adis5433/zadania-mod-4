@@ -22,7 +22,7 @@ returns boolean value,
 argument is str 
 znaki z argumentu są umieszczane w liście -word_forward pokolei
 oraz w liście - word_backward w odwrotnej kolejności
-następnie obie listy są porównywane zwracana jest wartość tru jeśli są takie same
+następnie obie listy są porównywane zwracana jest wartość true jeśli są takie same
 a false jeśli różne
 """
 
