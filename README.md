@@ -1,5 +1,5 @@
 # kalkulator.py is a calculator app with interactive menu 
-allows user calculate any amount numbers 
+allow user calculate any amount of numbers 
 menu uses match-cases statement
 
 
